@@ -1,5 +1,10 @@
 name: Refresh ice chart index
 on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/refresh.py'
+      - '.github/workflows/refresh.yml'
   schedule:
     - cron: '41 10 * * 3'
   workflow_dispatch:
