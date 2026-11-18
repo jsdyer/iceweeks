@@ -1,16 +1,37 @@
 {
-  "id": "coolcode-tool-template",
-  "title": "CoolCode Tool Starter",
-  "description": "A browser-only example that trims lines and removes exact duplicates.",
-  "category": "security",
-  "tags": ["text", "lines", "duplicates"],
-  "icon": "scan-search",
-  "url": "/coolcode-tool-template/",
-  "source": "https://github.com/jsdyer/coolcode-tool-template",
+  "id": "iceweeks",
+  "title": "Ice Weeks",
+  "description": "Compare the same winter week on Canadian Ice Service concentration charts for the East Coast, including the Gulf of St. Lawrence.",
+  "category": "places",
+  "tags": [
+    "Atlantic Canada",
+    "ice",
+    "Canadian Ice Service",
+    "Gulf of St. Lawrence"
+  ],
+  "icon": "map",
+  "url": "/iceweeks/",
+  "source": "https://github.com/jsdyer/iceweeks",
   "hosting": "project",
   "access": "browser",
   "data_info": {
-    "mode": "local",
-    "detail": "The browser reads the text you paste and compares its lines."
+    "mode": "snapshot",
+    "detail": "Canadian Ice Service charts show weekly East Coast ice concentration across winters.",
+    "cadence": "Weekly",
+    "probes": [
+      {
+        "label": "Data retrieved",
+        "url": "https://coolcode.ca/iceweeks/data/index.json",
+        "path": [
+          "retrieved"
+        ],
+        "count_at": {
+          "path": [
+            "count"
+          ],
+          "unit": "chart dates"
+        }
+      }
+    ]
   }
 }

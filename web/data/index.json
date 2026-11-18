@@ -1,0 +1,338 @@
+{
+ "retrieved": "2026-11-18",
+ "count": 55,
+ "first": "2024-02-12",
+ "latest": "2026-04-27",
+ "charts": [
+  {
+   "date": "2024-02-12",
+   "id": "WIS57CT_20240212",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20240212/WIS57CT_20240212.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20240212/WIS57CT_20240212.pdf"
+  },
+  {
+   "date": "2024-02-19",
+   "id": "WIS57CT_20240219",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20240219/WIS57CT_20240219.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20240219/WIS57CT_20240219.pdf"
+  },
+  {
+   "date": "2024-02-26",
+   "id": "WIS57CT_20240226",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20240226/WIS57CT_20240226.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20240226/WIS57CT_20240226.pdf"
+  },
+  {
+   "date": "2024-03-04",
+   "id": "WIS57CT_20240304",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20240304/WIS57CT_20240304.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20240304/WIS57CT_20240304.pdf"
+  },
+  {
+   "date": "2024-03-11",
+   "id": "WIS57CT_20240311",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20240311/WIS57CT_20240311.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20240311/WIS57CT_20240311.pdf"
+  },
+  {
+   "date": "2024-03-18",
+   "id": "WIS57CT_20240318",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20240318/WIS57CT_20240318.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20240318/WIS57CT_20240318.pdf"
+  },
+  {
+   "date": "2024-03-25",
+   "id": "WIS57CT_20240325",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20240325/WIS57CT_20240325.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20240325/WIS57CT_20240325.pdf"
+  },
+  {
+   "date": "2024-04-01",
+   "id": "WIS57CT_20240401",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20240401/WIS57CT_20240401.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20240401/WIS57CT_20240401.pdf"
+  },
+  {
+   "date": "2024-04-08",
+   "id": "WIS57CT_20240408",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20240408/WIS57CT_20240408.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20240408/WIS57CT_20240408.pdf"
+  },
+  {
+   "date": "2024-04-15",
+   "id": "WIS57CT_20240415",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20240415/WIS57CT_20240415.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20240415/WIS57CT_20240415.pdf"
+  },
+  {
+   "date": "2024-04-22",
+   "id": "WIS57CT_20240422",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20240422/WIS57CT_20240422.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20240422/WIS57CT_20240422.pdf"
+  },
+  {
+   "date": "2024-04-29",
+   "id": "WIS57CT_20240429",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20240429/WIS57CT_20240429.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20240429/WIS57CT_20240429.pdf"
+  },
+  {
+   "date": "2024-12-02",
+   "id": "WIS57CT_20241202",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20241202/WIS57CT_20241202.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20241202/WIS57CT_20241202.pdf"
+  },
+  {
+   "date": "2024-12-09",
+   "id": "WIS57CT_20241209",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20241209/WIS57CT_20241209.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20241209/WIS57CT_20241209.pdf"
+  },
+  {
+   "date": "2024-12-16",
+   "id": "WIS57CT_20241216",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20241216/WIS57CT_20241216.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20241216/WIS57CT_20241216.pdf"
+  },
+  {
+   "date": "2024-12-23",
+   "id": "WIS57CT_20241223",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20241223/WIS57CT_20241223.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20241223/WIS57CT_20241223.pdf"
+  },
+  {
+   "date": "2024-12-30",
+   "id": "WIS57CT_20241230",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20241230/WIS57CT_20241230.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20241230/WIS57CT_20241230.pdf"
+  },
+  {
+   "date": "2025-01-06",
+   "id": "WIS57CT_20250106",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20250106/WIS57CT_20250106.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20250106/WIS57CT_20250106.pdf"
+  },
+  {
+   "date": "2025-01-13",
+   "id": "WIS57CT_20250113",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20250113/WIS57CT_20250113.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20250113/WIS57CT_20250113.pdf"
+  },
+  {
+   "date": "2025-01-20",
+   "id": "WIS57CT_20250120",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20250120/WIS57CT_20250120.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20250120/WIS57CT_20250120.pdf"
+  },
+  {
+   "date": "2025-01-27",
+   "id": "WIS57CT_20250127",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20250127/WIS57CT_20250127.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20250127/WIS57CT_20250127.pdf"
+  },
+  {
+   "date": "2025-02-03",
+   "id": "WIS57CT_20250203",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20250203/WIS57CT_20250203.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20250203/WIS57CT_20250203.pdf"
+  },
+  {
+   "date": "2025-02-10",
+   "id": "WIS57CT_20250210",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20250210/WIS57CT_20250210.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20250210/WIS57CT_20250210.pdf"
+  },
+  {
+   "date": "2025-02-17",
+   "id": "WIS57CT_20250217",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20250217/WIS57CT_20250217.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20250217/WIS57CT_20250217.pdf"
+  },
+  {
+   "date": "2025-02-24",
+   "id": "WIS57CT_20250224",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20250224/WIS57CT_20250224.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20250224/WIS57CT_20250224.pdf"
+  },
+  {
+   "date": "2025-03-03",
+   "id": "WIS57CT_20250303",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20250303/WIS57CT_20250303.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20250303/WIS57CT_20250303.pdf"
+  },
+  {
+   "date": "2025-03-10",
+   "id": "WIS57CT_20250310",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20250310/WIS57CT_20250310.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20250310/WIS57CT_20250310.pdf"
+  },
+  {
+   "date": "2025-03-17",
+   "id": "WIS57CT_20250317",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20250317/WIS57CT_20250317.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20250317/WIS57CT_20250317.pdf"
+  },
+  {
+   "date": "2025-03-24",
+   "id": "WIS57CT_20250324",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20250324/WIS57CT_20250324.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20250324/WIS57CT_20250324.pdf"
+  },
+  {
+   "date": "2025-04-07",
+   "id": "WIS57CT_20250407",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20250407/WIS57CT_20250407.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20250407/WIS57CT_20250407.pdf"
+  },
+  {
+   "date": "2025-04-14",
+   "id": "WIS57CT_20250414",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20250414/WIS57CT_20250414.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20250414/WIS57CT_20250414.pdf"
+  },
+  {
+   "date": "2025-04-21",
+   "id": "WIS57CT_20250421",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20250421/WIS57CT_20250421.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20250421/WIS57CT_20250421.pdf"
+  },
+  {
+   "date": "2025-04-28",
+   "id": "WIS57CT_20250428",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20250428/WIS57CT_20250428.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20250428/WIS57CT_20250428.pdf"
+  },
+  {
+   "date": "2025-12-01",
+   "id": "WIS57CT_20251201",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20251201/WIS57CT_20251201.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20251201/WIS57CT_20251201.pdf"
+  },
+  {
+   "date": "2025-12-08",
+   "id": "WIS57CT_20251208",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20251208/WIS57CT_20251208.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20251208/WIS57CT_20251208.pdf"
+  },
+  {
+   "date": "2025-12-15",
+   "id": "WIS57CT_20251215",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20251215/WIS57CT_20251215.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20251215/WIS57CT_20251215.pdf"
+  },
+  {
+   "date": "2025-12-22",
+   "id": "WIS57CT_20251222",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20251222/WIS57CT_20251222.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20251222/WIS57CT_20251222.pdf"
+  },
+  {
+   "date": "2025-12-29",
+   "id": "WIS57CT_20251229",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20251229/WIS57CT_20251229.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20251229/WIS57CT_20251229.pdf"
+  },
+  {
+   "date": "2026-01-05",
+   "id": "WIS57CT_20260105",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20260105/WIS57CT_20260105.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20260105/WIS57CT_20260105.pdf"
+  },
+  {
+   "date": "2026-01-12",
+   "id": "WIS57CT_20260112",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20260112/WIS57CT_20260112.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20260112/WIS57CT_20260112.pdf"
+  },
+  {
+   "date": "2026-01-19",
+   "id": "WIS57CT_20260119",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20260119/WIS57CT_20260119.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20260119/WIS57CT_20260119.pdf"
+  },
+  {
+   "date": "2026-01-26",
+   "id": "WIS57CT_20260126",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20260126/WIS57CT_20260126.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20260126/WIS57CT_20260126.pdf"
+  },
+  {
+   "date": "2026-02-02",
+   "id": "WIS57CT_20260202",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20260202/WIS57CT_20260202.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20260202/WIS57CT_20260202.pdf"
+  },
+  {
+   "date": "2026-02-09",
+   "id": "WIS57CT_20260209",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20260209/WIS57CT_20260209.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20260209/WIS57CT_20260209.pdf"
+  },
+  {
+   "date": "2026-02-16",
+   "id": "WIS57CT_20260216",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20260216/WIS57CT_20260216.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20260216/WIS57CT_20260216.pdf"
+  },
+  {
+   "date": "2026-02-23",
+   "id": "WIS57CT_20260223",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20260223/WIS57CT_20260223.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20260223/WIS57CT_20260223.pdf"
+  },
+  {
+   "date": "2026-03-02",
+   "id": "WIS57CT_20260302",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20260302/WIS57CT_20260302.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20260302/WIS57CT_20260302.pdf"
+  },
+  {
+   "date": "2026-03-09",
+   "id": "WIS57CT_20260309",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20260309/WIS57CT_20260309.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20260309/WIS57CT_20260309.pdf"
+  },
+  {
+   "date": "2026-03-16",
+   "id": "WIS57CT_20260316",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20260316/WIS57CT_20260316.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20260316/WIS57CT_20260316.pdf"
+  },
+  {
+   "date": "2026-03-23",
+   "id": "WIS57CT_20260323",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20260323/WIS57CT_20260323.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20260323/WIS57CT_20260323.pdf"
+  },
+  {
+   "date": "2026-03-30",
+   "id": "WIS57CT_20260330",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20260330/WIS57CT_20260330.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20260330/WIS57CT_20260330.pdf"
+  },
+  {
+   "date": "2026-04-06",
+   "id": "WIS57CT_20260406",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20260406/WIS57CT_20260406.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20260406/WIS57CT_20260406.pdf"
+  },
+  {
+   "date": "2026-04-13",
+   "id": "WIS57CT_20260413",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20260413/WIS57CT_20260413.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20260413/WIS57CT_20260413.pdf"
+  },
+  {
+   "date": "2026-04-20",
+   "id": "WIS57CT_20260420",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20260420/WIS57CT_20260420.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20260420/WIS57CT_20260420.pdf"
+  },
+  {
+   "date": "2026-04-27",
+   "id": "WIS57CT_20260427",
+   "image": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20260427/WIS57CT_20260427.ql.jpg",
+   "pdf": "https://www.polarview.aq/images/ilp/products/22_CIS/2213_CanadaEastCoast_Conc/20260427/WIS57CT_20260427.pdf"
+  }
+ ]
+}
