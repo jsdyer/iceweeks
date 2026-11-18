@@ -31,6 +31,16 @@
           ],
           "unit": "chart dates"
         }
+      },
+      {
+        "url": "https://coolcode.ca/iceweeks/data/index.json",
+        "label": "Chart issue dates",
+        "path": [
+          "first"
+        ],
+        "end_path": [
+          "latest"
+        ]
       }
     ]
   }
